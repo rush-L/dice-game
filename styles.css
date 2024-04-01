@@ -10,6 +10,17 @@
 
 }
 
+#rollbtn:hover{
+  filter: brightness(85%);
+}
+
+#rollbtn{
+padding: 1rem;
+border-radius: 15%;
+background-color: rgb(110, 187, 251);
+;
+}
+
 body {
   background-color: #393E46;
 }
